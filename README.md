@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">I have passion for data. I will be uploading my bootcamp projects here as well projects I work on in my free time. Let me know if you need anything. Thanks for visiting.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillearn&label=Profile%20views&color=0e75b6&style=flat" alt="kamillearn" /> </p>
 
