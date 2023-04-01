@@ -19,7 +19,7 @@ My data projects:
 
 👨‍💻 All of my projects are available at [Overview of all projects](https://github.com/kamillearn?tab=repositories)
 
-📫 How to reach me **abdulkamilkarim@gmail.com**
+📫 Email me **abdulkamilkarim@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
