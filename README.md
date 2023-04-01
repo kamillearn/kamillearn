@@ -13,6 +13,8 @@ My data projects:
 
 - 🦠 [Covid 19 Data Exploration](https://github.com/kamillearn/Covid19-Data-Exploratory)
 
+- 🤖 [Building a Machine Learning Model](https://github.com/kamillearn/Building-a-Machine-Learning-Model-with-Python/blob/main/MLMP.ipynb)
+
 🌱 I’m currently learning on Data Analytics at **Neuefische**
 
 👨‍💻 All of my projects are available at [Overview of all projects](https://github.com/kamillearn?tab=repositories)
