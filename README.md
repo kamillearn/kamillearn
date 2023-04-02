@@ -15,7 +15,7 @@ My data projects:
 
 - 🤖 [Building a Machine Learning Model](https://github.com/kamillearn/Building-a-Machine-Learning-Model-with-Python/blob/main/MLMP.ipynb)
 
-🌱 I’m currently learning on Data Analytics at **Neuefische**
+🌱 Currently enrolled in the Advanced Data Analytics bootcamp at [neuefische.de](neuefische.de) after having completed both Google Data Analytics and IBM Data Science courses at [coursera.org](coursera.org)
 
 👨‍💻 All of my projects are available at [Overview of all projects](https://github.com/kamillearn?tab=repositories)
 
