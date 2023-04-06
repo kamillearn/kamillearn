@@ -11,7 +11,7 @@ My data projects:
 
 - 😁 [World Happiness Report 2022-Data Analysis](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python)
 
-- 🦠 [Covid 19 Data Exploration](https://github.com/kamillearn/Covid19-Data-Exploratory)
+- 🦠 [Covid 19 Data Exploration With SQL](https://github.com/kamillearn/Covid19-Data-Exploratory)
 
 - 🤖 [Building a Machine Learning Model](https://github.com/kamillearn/Building-a-Machine-Learning-Model-with-Python/blob/main/MLMP.ipynb)
 
