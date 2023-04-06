@@ -9,7 +9,7 @@ My data projects:
 
 - 🚀 [IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
 
-- 😁 [World Happiness Report EDA](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python/blob/main/World%20Happiness%20Report%202022%20Data%20Analysis%20with%20Python.ipynb)
+- 😁 [World Happiness Report EDA With Python](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python/blob/main/World%20Happiness%20Report%202022%20Data%20Analysis%20with%20Python.ipynb)
 
 - 🦠 [Covid 19 Data Exploration With SQL](https://github.com/kamillearn/Covid19-Data-Exploratory)
 
