@@ -9,7 +9,7 @@ Tableau:
 
 Capstone projects:
 
-- 📚 [Education Excellence Capstone Project](https://docs.google.com/presentation/d/1M8UKKSeODL92k5VHaXEQYb-z1ZA5qq3-F_5ZOd6cT8I/edit#slide=id.gc6f9e470d_0_0)
+- 📚 [Analysis of the quality of Germany’s Federal State Education](https://docs.google.com/presentation/d/1M8UKKSeODL92k5VHaXEQYb-z1ZA5qq3-F_5ZOd6cT8I/edit#slide=id.gc6f9e470d_0_0)
 
 - 🚀 [IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
 
