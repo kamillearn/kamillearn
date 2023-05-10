@@ -34,8 +34,8 @@ Other data projects:
 <a href="https://www.linkedin.com/in/kamil-karim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamil-karim/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> My data analytics journey: </h3>
-<p align="left"><img align="center" src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" alt="https://www.neuefische.de/" height="30" width="40" /> Advanced Data Analytics Trainee at Neuefische GmbH </p>
+<h4 align="left"> My data analytics journey: </h4>
+<p align="left"><img align="center" src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" alt="https://www.neuefische.de/" height="30" width="40" /> Data Analytics Trainee at Neuefische GmbH </p>
 <p align="left"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1176px-Google_%22G%22_Logo.svg.png?20230305195327" height="40" width="40" /> Google Data Analytics Course at Coursera.org </p>
 <p align="left"><img align="center" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" height="40" width="40" /> IBM Data Science Course at Coursera.org </p>
 
