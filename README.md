@@ -9,7 +9,7 @@ Tableau:
 
 Capstone projects:
 
-- 📚 [Analysis of the quality of Germany’s Federal States Education](https://docs.google.com/presentation/d/1i80AkdkScdcAdsQ14B_ekGg7atLoaJ86/edit?usp=share_link&ouid=108375151789000480419&rtpof=true&sd=true)
+- 📚 [Analysis of the quality of Germany’s Federal States Education](https://drive.google.com/file/d/1yxxxYEewkHr0RrBwWqy6VT_rjdeE5otV/view?usp=share_link)
 
 - 🚀 [IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
 
