@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">I will be uploading my bootcamp projects here as well projects I work on in my free time. Let me know if you need anything. Thank you for stopping by.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillearn&label=Profile%20views&color=0e75b6&style=flat" alt="kamillearn" /> </p>
 
-Tableau:
-[View Dashboards 📈📉📊](https://public.tableau.com/app/profile/kamil.karim)
+**Cybersecurity Projects**:
+- 🛡️⚠️ [Azure Sentinel Threat Hunting with Honeypots](https://github.com/kamillearn/Threat-Hunting-with-Honeypots)
 
-Capstone projects:
+
+
+**Tableau**:
+[All my Tableau Dashboards here 📈📉📊](https://public.tableau.com/app/profile/kamil.karim)
+
+**All my Data Capstone projects**:
 
 - 📚 [Analysis of the quality of Germany’s Federal States Education](https://drive.google.com/file/d/1CxjNwIpnYod1lH7TsPTD5vAY4bb1LoxB/view?usp=share_link)
 
 - 🚀 [IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
 
-Other data projects:
+**Other data analysis projects**:
 - 🥣 [Happy Muesli Project - EDA & KPI](https://github.com/kamillearn/Happy-Muesli-Project)
 
 - 😁 [World Happiness Report EDA With Python](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python/blob/main/World%20Happiness%20Report%202022%20Data%20Analysis%20with%20Python.ipynb)
@@ -36,7 +40,7 @@ Other data projects:
 
 <h4 align="left"> My data analytics journey: </h4>
 <p align="left"><img align="center" src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" alt="https://www.neuefische.de/" height="30" width="40" /> Data Analytics Trainee at Neuefische GmbH </p>
-<p align="left"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1176px-Google_%22G%22_Logo.svg.png?20230305195327" height="40" width="40" /> Google Data Analytics Course at coursera.org </p>
+<p align="left"><img align="center" src="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png" height="40" width="40" /> Google Data Analytics Course at coursera.org </p>
 <p align="left"><img align="center" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" height="40" width="40" /> IBM Data Science Course at coursera.org </p>
 
 <h3 align="left">Languages and Tools:</h3>
