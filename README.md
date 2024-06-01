@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillearn&label=Profile%20views&color=0e75b6&style=flat" alt="kamillearn" /> </p>
 
 **Cybersecurity Projects**:
-- 🛡️⚠️ [Azure Sentinel Threat Hunting with Honeypots](https://github.com/kamillearn/Threat-Hunting-with-Honeypots)
+- ⚠️🛡️ [Azure Sentinel Threat Hunting with Honeypots](https://github.com/kamillearn/Threat-Hunting-with-Honeypots)
 
 
 
