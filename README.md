@@ -13,7 +13,7 @@
 
 **All my Data Capstone projects**:
 
-- 📚 [Analysis of the quality of Germany’s Federal States Education](https://drive.google.com/file/d/1CxjNwIpnYod1lH7TsPTD5vAY4bb1LoxB/view?usp=share_link)
+- 📚 [Analysis of the quality of Germany’s Federal States Education](https://github.com/kamillearn/Education-Excellence)
 
 - 🚀 [IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
 
