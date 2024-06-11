@@ -6,18 +6,18 @@
 **Cybersecurity Projects**:
 - ⚠️🛡️ [Azure Sentinel Threat Hunting with Honeypots](https://github.com/kamillearn/Threat-Hunting-with-Honeypots)
 
+**Currently learning**:
+ - CompTIA Security+
+ - Cybersecurity analyst @Coursera 
 
 
-**Tableau**:
-[All my Tableau Dashboards here 📈📉📊](https://public.tableau.com/app/profile/kamil.karim)
-
-**All my Data Capstone projects**:
+**My capstone projects**:
 
 - 📚 [Analysis of the quality of Germany’s Federal States Education](https://github.com/kamillearn/Education-Excellence)
 
 - 🚀 [IBM Applied Data Science Capstone Project - SpaceX](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone)
 
-**Other data analysis projects**:
+**Other projects**:
 - 🥣 [Happy Muesli Project - EDA & KPI](https://github.com/kamillearn/Happy-Muesli-Project)
 
 - 😁 [World Happiness Report EDA With Python](https://github.com/kamillearn/World-Happiness-Report-2022-Data-Analysis-with-Python/blob/main/World%20Happiness%20Report%202022%20Data%20Analysis%20with%20Python.ipynb)
@@ -26,17 +26,20 @@
 
 - 🤖 [Building a Machine Learning Model](https://github.com/kamillearn/Building-a-Machine-Learning-Model-with-Python/blob/main/MLMP.ipynb)
 
-
+**Tableau**:
+[All my Tableau Dashboards here 📈📉📊](https://public.tableau.com/app/profile/kamil.karim)
 
 👨‍💻 All of my projects are available at [Overview of all projects](https://github.com/kamillearn?tab=repositories)
 
-📫 Email me **abdulkamilkarim@gmail.com**
+
 
 <h4 align="left"> My Website: https://kamillearn.github.io/kamilkarim.io/ </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kamil-karim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamil-karim/" height="30" width="40" /></a>
 </p>
+
+📫 Email me **abdulkamilkarim@gmail.com**
 
 <h4 align="left"> My data analytics journey: </h4>
 <p align="left"><img align="center" src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" alt="https://www.neuefische.de/" height="30" width="40" /> Data Analytics Trainee at Neuefische GmbH </p>
