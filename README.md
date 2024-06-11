@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillearn&label=Profile%20views&color=0e75b6&style=flat" alt="kamillearn" /> </p>
 
-**Cybersecurity Projects**:
+**Cybersecurity Project**:
 - ⚠️🛡️ [Azure Sentinel Threat Hunting with Honeypots](https://github.com/kamillearn/Threat-Hunting-with-Honeypots)
 
 **Currently learning**:
