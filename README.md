@@ -41,9 +41,4 @@
 
 📫 Email me **abdulkamilkarim@gmail.com**
 
-<h4 align="left"> My data analytics journey: </h4>
-<p align="left"><img align="center" src="https://images.ctfassets.net/m8n66tuamygx/4hT1EuV1z7nnYGOBXOEWPz/006bf4419464bb53cffcaacb85f84199/metaimage.png" alt="https://www.neuefische.de/" height="30" width="40" /> Data Analytics Trainee at Neuefische GmbH </p>
-<p align="left"><img align="center" src="https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587515358_10512.png" height="40" width="40" /> Google Data Analytics Course at coursera.org </p>
-<p align="left"><img align="center" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" height="40" width="40" /> IBM Data Science Course at coursera.org </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamillearn&show_icons=true&locale=en&layout=compact" alt="kamillearn" /></p>
