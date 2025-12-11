@@ -6,11 +6,6 @@
 **Cybersecurity Project**:
 - ⚠️🛡️ [Azure Sentinel Threat Hunting with Honeypots](https://github.com/kamillearn/Threat-Hunting-with-Honeypots)
 
-**Currently learning**:
- - CompTIA Security+
- - Cybersecurity analyst @Coursera 
-
-
 **My capstone projects**:
 
 - 📚 [Analysis of the quality of Germany’s Federal States Education](https://github.com/kamillearn/Education-Excellence)
