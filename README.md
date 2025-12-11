@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h1 align="center">Hey</h1>
 <h3 align="center">I’m an IT Security Working Student and B.Sc. Cyber Security Management student (3rd semester) focused on Security, Business Intelligence and Data Analytics. I build reliable dashboards and data workflows, write clear documentation, and support teams with structured, dependable delivery.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamillearn&label=Profile%20views&color=0e75b6&style=flat" alt="kamillearn" /> </p>
